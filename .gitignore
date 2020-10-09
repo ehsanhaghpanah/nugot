@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NuGot/bin
+/NuGot/obj
+/packages
+*.user
+*.suo
+*.dbmdl
