@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<RepositoryItem>
+		<Title>moniüs.Core.Base</Title>
+		<Value>1</Value>
+		<Order>0x0001</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Core.Common</Title>
+		<Order>0x0002</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.WwW.Checker</Title>
+		<Order>0x0003</Order>
+	</RepositoryItem>
+
+	<!-- Exchange -->
+	<RepositoryItem>
+		<Title>moniüs.Exchange.Core.Base</Title>
+		<Order>0x0011</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Exchange.Core.Common</Title>
+		<Order>0x0012</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Exchange.Core</Title>
+		<Order>0x0013</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Exchange.Bson.Base</Title>
+		<Order>0x0014</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Exchange.Bson.Core</Title>
+		<Order>0x0015</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Exchange.Client</Title>
+		<Order>0x0016</Order>
+	</RepositoryItem>
+
+	<!-- Cache -->
+	<RepositoryItem>
+		<Title>moniüs.Cache.Demote</Title>
+		<Order>0x0021</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Cache.Remote</Title>
+		<Order>0x0022</Order>
+	</RepositoryItem>
+
+	<!-- Services -->
+	<RepositoryItem>
+		<Title>moniüs.Services.Core.Base</Title>
+		<Order>0x0031</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.WwW.Services.Core</Title>
+		<Order>0x0032</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.Services.Wrapper</Title>
+		<Order>0x0033</Order>
+	</RepositoryItem>
+	<RepositoryItem>
+		<Title>moniüs.TC.Server.Core</Title>
+		<Order>0x0034</Order>
+	</RepositoryItem>
+
+	<!-- Gateways -->
+	<RepositoryItem>
+		<Title>moniüs.Gateways.Exchange.Base</Title>
+		<Order>0x0041</Order>
+	</RepositoryItem>
+
+	<!-- Common -->
+	<RepositoryItem>
+		<Title>moniüs.Common</Title>
+		<Order>0x0051</Order>
+	</RepositoryItem>
+
+	<!-- Common.Data -->
+	<RepositoryItem>
+		<Title>moniüs.Common.Data.Base</Title>
+		<Order>0x0061</Order>
+	</RepositoryItem>
+
+</Repository>
